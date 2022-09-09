@@ -1,1 +1,29 @@
+#Linux command cheat sheet
+Linux terminal is a user-friendly terminal 
+To Execute a command by pressing the 'ENTER' key.
+
+#Linux Directory Commands
+•	pwd  - Display the location of the current working directory
+•	mkdir <directory_name> -  Create a new directory under any directory.
+•	rmdir <directory_name> - Delete a directory.
+•	ls - Display a list of content of a directory.
+•	cd - Change the current directory.
+
+#Linux File commands:
+•	touch <filename> - Create empty file
+•	touch <fname1><fname2>...- Create multiple empty files
+•	cat > <filename> //Enter file content - Create a file 
+•	cat <file name> - Display the content of the file
+•	rm <filename> - Remove a file
+•	cp <existing filename> <new filename>copy a file or directory.
+•	mv <filename> <new dirpath> move a file or a directory form one location to another location.
+•	rename s’/oldname/newname/’ files- rename files
+•	 rename ‘s/\.txt$/\.pdf/  *.txt/ rename txt files to pdf files
+
+
+	
+
+
+
+
 
