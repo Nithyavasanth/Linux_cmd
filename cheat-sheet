@@ -19,11 +19,14 @@ To Execute a command by pressing the 'ENTER' key.
 •	mv <filename> <new dirpath> move a file or a directory form one location to another location.
 •	rename s’/oldname/newname/’ files- rename files
 •	 rename ‘s/\.txt$/\.pdf/  *.txt/ rename txt files to pdf files
-
-
-	
-
-
-
-
-
+#File Content Commands:
+•	head <filename> - Displays the first 10 lines of a file
+•	tail <filename> - - Displays the last 10 lines of a file
+•	tac <filename> - Display the file content in reverse order
+•	more <filename> - displays screenful output at a time (large file>
+ the more command cuts the output in the width of the terminal
+ENTER key: To scroll down page by line.
+Space bar: To move to the next page.
+b key: To move to the previous page.
+/ key: To search the string.
+•	less <filename>  - display the content of the file
